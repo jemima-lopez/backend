@@ -1,0 +1,28 @@
+{
+  "name": "api-rest-node.js",
+  "version": "1.0.0",
+  "description": "api rest master javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Jemima Lopez",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "connect-multiparty": "^2.2.0",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Api Rest del Master de JavaScript"
+  },
+  "keywords": [
+    "Sara1alex1"
+  ]
+}
